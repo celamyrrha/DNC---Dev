@@ -1,6 +1,7 @@
 # Landing Page - Curso DNC
 
 Este repositório contém uma landing page desenvolvida como parte do curso da **Escola de Tecnologia DNC**. O objetivo do projeto é criar uma página de captura simples e responsiva, utilizando **HTML5**, **CSS3**, e integrando com o serviço **[Sheet Monkey](https://sheetmonkey.io/)** para envio dos dados de formulário diretamente para uma planilha.
+Link da página: https://projeto-dnc-1.netlify.app/
 
 ## 🚀 Tecnologias Utilizadas
 
