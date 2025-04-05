@@ -17,7 +17,21 @@ Este repositório contém uma landing page desenvolvida como parte do curso da *
 
 ## 📸 Preview
 
-![preview da landing page](./preview.png) <!-- Altere o nome da imagem se necessário -->
+![image](https://github.com/user-attachments/assets/8ca7a224-0e24-4fa3-b1a6-23028e75791e)
 
-## 📁 Estrutura de Arquivos
+## ✉️ Como funciona a integração com o Sheet Monkey
+
+1. Foi criado um formulário HTML com campos de nome, email, etc.
+2. O atributo `action` do formulário aponta para a URL gerada pelo Sheet Monkey.
+3. Os dados são enviados diretamente para uma planilha conectada ao serviço.
+
+Exemplo de código do formulário:
+
+```html
+<form action="https://api.sheetmonkey.io/form/SEU_ID_UNICO" method="POST">
+  <input type="text" name="Nome" placeholder="Digite seu nome" required />
+  <input type="email" name="Email" placeholder="Digite seu email" required />
+  <button type="submit">Enviar</button>
+</form>
+
 
