@@ -6,6 +6,7 @@ Este repositório contém uma landing page desenvolvida como parte do curso da *
 
 - HTML5
 - CSS3
+- Javascript
 - Sheet Monkey (integração para submissão de dados)
 
 ## 💡 Funcionalidades
